@@ -1,0 +1,14 @@
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.AssemblyInfo.cs
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\bin\Debug\net8.0\SohbetSunucusu.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\bin\Debug\net8.0\SohbetSunucusu.deps.json
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\bin\Debug\net8.0\SohbetSunucusu.runtimeconfig.json
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\bin\Debug\net8.0\SohbetSunucusu.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\bin\Debug\net8.0\SohbetSunucusu.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\refint\SohbetSunucusu.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\SohbetSunucusu.genruntimeconfig.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetSunucusu\obj\Debug\net8.0\ref\SohbetSunucusu.dll
