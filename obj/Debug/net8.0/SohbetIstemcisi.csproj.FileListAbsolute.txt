@@ -1,0 +1,14 @@
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\bin\Debug\net8.0\SohbetIstemcisi.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\bin\Debug\net8.0\SohbetIstemcisi.deps.json
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\bin\Debug\net8.0\SohbetIstemcisi.runtimeconfig.json
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\bin\Debug\net8.0\SohbetIstemcisi.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\bin\Debug\net8.0\SohbetIstemcisi.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.AssemblyInfo.cs
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\refint\SohbetIstemcisi.dll
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\SohbetIstemcisi.genruntimeconfig.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SohbetIstemcisi\obj\Debug\net8.0\ref\SohbetIstemcisi.dll
